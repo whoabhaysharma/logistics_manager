@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './style.css'
 import config from '../../Config/config.json'
 import Menu from './Menu'
 
